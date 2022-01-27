@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Tshering Lhamo
 - 🌱 I am familiar with Java, JavaFx, HTML, CSS, JavaScript, and Python.
-- 📫 You can reach me out in Instagram - [@dork_v3.0](https://www.instagram.com/dork_v3.0) Twitter - [@dork_v2](https://www.twitter.com/dork_v2)
+- 📫 You can reach me out in Instagram - [@virus_tshering](https://www.instagram.com/virus_tshering/) Twitter - [@dork_v2](https://www.twitter.com/dork_v2)
 - 🎓 I'm currently pursuing my Degree in B.E. Information Technology
 
 <br />
