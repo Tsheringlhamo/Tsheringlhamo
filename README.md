@@ -1,8 +1,7 @@
 # Welcome To My GitHub Page #
 
-- 👋 Hi, I’m Divyash Chhetri
-- 👀 I’m a Geek who is also interested in Photography/Videography
-- 🌱 I am familiar with C, C++, Java, JavaFx, HTML, CSS, JavaScript, Ruby, Python, Dart and a little of C#
+- 👋 Hi, I’m Tshering Lhamo
+- 🌱 I am familiar with Java, JavaFx, HTML, CSS, JavaScript, and Python.
 - 📫 You can reach me out in Instagram - [@dork_v3.0](https://www.instagram.com/dork_v3.0) Twitter - [@dork_v2](https://www.twitter.com/dork_v2)
 - 🎓 I'm currently pursuing my Degree in B.E. Information Technology
 
