@@ -13,11 +13,11 @@
 ## Get in touch with me on: ##
 
 <p align="center">
- <a href="https://twitter.com/dork_v2" target="_blank">
-  <img src="https://github.com/divyashC/devicon/blob/master/icons/twitter/twitter-original.svg" alt="divyashC's Twitter" width="40" height="40"/>     
+ <a href="https://twitter.com/Jekpa_" target="_blank">
+  <img src="https://github.com/divyashC/devicon/blob/master/icons/twitter/twitter-original.svg" alt="tshering's Twitter" width="40" height="40"/>     
  </a>
- <a href="https://www.instagram.com/dork_v3.0/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyashC's Instagram" width="40" height="40" />    
+ <a href="https://www.instagram.com/virus_tshering/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tshering's Instagram" width="40" height="40" />    
  </a>
  <a href="https://github.com/divyashC/" target="_blank">
   <img src="https://github.com/divyashC/devicon/blob/master/icons/github/github-original.svg" alt="divyashC's GitHub"  width="40" height="40"/>    
