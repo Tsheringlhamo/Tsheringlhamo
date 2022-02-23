@@ -14,7 +14,7 @@
 
 <p align="center">
  <a href="https://twitter.com/Jekpa_" target="_blank">
-  <img src="https://github.com/divyashC/devicon/blob/master/icons/twitter/twitter-original.svg" alt="tshering's Twitter" width="40" height="40"/>     
+  <img src="file:///D:/Downloads/icons8-twitter.svg" alt="tshering's Twitter" width="40" height="40"/>     
  </a>
  <a href="https://www.instagram.com/virus_tshering/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tshering's Instagram" width="40" height="40" />    
