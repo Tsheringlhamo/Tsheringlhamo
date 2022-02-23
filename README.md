@@ -20,7 +20,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tshering's Instagram" width="40" height="40" />    
  </a>
  <a href="https://github.com/Tsheringlhamo/" target="_blank">
-  <img src="https://github.com/divyashC/devicon/blob/master/icons/github/github-original.svg" alt="tshering's GitHub"  width="40" height="40"/>    
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tshering's GitHub"  width="40" height="40"/>    
  </a>
  <a href="https://stackoverflow.com/users/18048682/tshering-lhamo" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tshering's StackOverflow Profile"  width="40" height="40"/>    
