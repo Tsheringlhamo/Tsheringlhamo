@@ -1,7 +1,7 @@
 # Welcome To My GitHub Page #
 
 - 👋 Hi, I’m Tshering Lhamo
-- 🌱 I am familiar with Java, HTML, CSS, JavaScript, and Python.
+- 🌱 I am familiar with Java, HTML, CSS, JavaScript, and Python, And Server configuration
 - 📫 You can reach me out in Instagram - [@virus_tshering](https://www.instagram.com/virus_tshering/) Twitter - [@Jekpa_](https://twitter.com/Jekpa_)
 - 🎓 I have completed Degree in B.E. Information Technology
 - 👷‍♀️ Curently working at ChainZeeper 
